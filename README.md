@@ -8,7 +8,6 @@ This project is a simple weather application that fetches real-time weather data
 
 - **Real-Time Weather Data:** Fetches live weather updates for any city using the OpenWeather API.
 - **Dynamic Weather Icons:** Displays icons based on the current weather (e.g., clouds, rain, clear, etc.).
-- **Day & Night Theme:** Automatically updates the card background based on the time of the day (sunrise and sunset).
 - **Responsive Design:** Optimized for different screen sizes, including mobile and desktop.
 - **Error Handling:** Displays an error message for invalid city names.
 
@@ -49,18 +48,24 @@ This project is a simple weather application that fetches real-time weather data
 
 ```
 Weather-forecast-web-app/
-├── index.html         # HTML structure
-├── style.css          # CSS for styling
-├── script.js          # JavaScript for functionality
-└── assets/            # Images and icons
-    ├── background.jpg
-    ├── clouds.png
-    ├── rain.png
-    ├── clear.png
-    ├── drizzle.png
-    ├── mist.png
-    ├── snow.png
-    └── search.png
+├── index.html              # HTML structure
+├── style.css               # CSS for styling
+├── script.js               # JavaScript for functionality
+├── README.md               
+├── assests/                # Images and icons
+│   ├── clear.png           
+│   ├── clouds.png         
+│   ├── drizzle.png         
+│   ├── humidity.png        
+│   ├── mist.png            
+│   ├── rain.png           
+│   ├── search.png          
+│   ├── snow.png           
+│   └── wind.png           
+└── screenshots/           
+    ├── weather-search-ui.png       
+    └── weather-result-display.png 
+
 ```
 
 ---
@@ -93,13 +98,13 @@ You can get an API key by signing up at [OpenWeather](https://openweathermap.org
 
 ## Screenshots
 
-### Day Theme:
+### Search Interface:
 
-*(Insert a screenshot of the app with the day theme here)*
+![Weather Search UI](screenshots/weather-search-ui.png)
 
-### Night Theme:
+### Weather Result Display:
 
-*(Insert a screenshot of the app with the night theme here)*
+![Weather Result Display](screenshots/weather-result-display.png)
 
 ---
 
