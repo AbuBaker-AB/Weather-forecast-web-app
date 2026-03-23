@@ -1,4 +1,4 @@
-# Weather Web App
+# Weather-forecast-web-app
 
 This project is a simple weather application that fetches real-time weather data from the OpenWeather API and displays it in an interactive user interface. Users can input a city name to retrieve information such as temperature, humidity, wind speed, and a weather icon corresponding to the current weather condition.
 
@@ -28,13 +28,13 @@ This project is a simple weather application that fetches real-time weather data
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-web-app.git
+   git clone https://github.com/your-username/Weather-forecast-web-app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd weather-web-app
+   cd Weather-forecast-web-app
    ```
 
 3. Open the `index.html` file in your preferred web browser:
@@ -48,7 +48,7 @@ This project is a simple weather application that fetches real-time weather data
 ## File Structure
 
 ```
-weather-web-app/
+Weather-forecast-web-app/
 ├── index.html         # HTML structure
 ├── style.css          # CSS for styling
 ├── script.js          # JavaScript for functionality
