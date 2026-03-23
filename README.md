@@ -130,5 +130,11 @@ Contributions are welcome! If you have suggestions or bug fixes, feel free to op
 
 ---
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 **Enjoy using the Weather App!**
 
